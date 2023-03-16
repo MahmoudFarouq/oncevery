@@ -1,4 +1,4 @@
-module oncevery
+module github.com/MahmoudFarouq/oncevery
 
 go 1.20
 
